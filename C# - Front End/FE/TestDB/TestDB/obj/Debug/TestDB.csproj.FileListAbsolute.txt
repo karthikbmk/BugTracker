@@ -1,0 +1,11 @@
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\bin\Debug\TestDB.exe.config
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\bin\Debug\TestDB.exe
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\bin\Debug\TestDB.pdb
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\obj\Debug\TestDB.csprojResolveAssemblyReference.cache
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\obj\Debug\TestDB.Properties.Resources.resources
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\obj\Debug\TestDB.csproj.GenerateResource.Cache
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\obj\Debug\TestDB.exe
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\obj\Debug\TestDB.pdb
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\obj\Debug\TestDB.IssueTrackerMainForm.resources
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\obj\Debug\Interop.LCC11.dll
+G:\IssueLogger\ExcelAPI\TestDB\TestDB\obj\Debug\TestDB.csproj.ResolveComReference.cache
